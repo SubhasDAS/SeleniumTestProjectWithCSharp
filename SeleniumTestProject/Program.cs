@@ -28,6 +28,8 @@ namespace SeleniumTestProject
             Console.WriteLine("The 1st result of the page is: " + text);
             Console.WriteLine("The 1st result of the page is: " + text);
             Console.WriteLine("The 1st result of the page is: " + text);
+            Console.WriteLine("The 1st result of the page is: " + text);
+            Console.WriteLine("The 1st result of the page is: " + text);
 
             // Close the browser
             System.Threading.Thread.Sleep(500000);
