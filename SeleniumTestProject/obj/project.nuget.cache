@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjGxJhpO7B81VPyrF3+dESocdBPre3XTDFv3nUBoMiUmm4ZPVPLToe047bZ5BljmTA4ZRXLalCZVadZNzFrLEA==",
+  "success": true,
+  "projectFilePath": "/Users/subhasdas/VS/Projects/SeleniumTestProject/SeleniumTestProject/SeleniumTestProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/subhasdas/.nuget/packages/selenium.webdriver/4.24.0/selenium.webdriver.4.24.0.nupkg.sha512",
+    "/Users/subhasdas/.nuget/packages/selenium.webdriver.chromedriver/129.0.6668.5800/selenium.webdriver.chromedriver.129.0.6668.5800.nupkg.sha512",
+    "/Users/subhasdas/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/subhasdas/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
