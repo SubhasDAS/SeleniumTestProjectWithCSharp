@@ -26,7 +26,8 @@ namespace SeleniumTestProject
 
             string text =   driver.FindElement(RelativeBy.WithLocator(By.XPath("//div[@id='search']//following:: h3")).Below(By.TagName("title"))).GetAttribute("innerText");
             Console.WriteLine("The 1st result of the page is: " + text);
-            HandleInheritability;
+            Console.WriteLine("The 1st result of the page is: " + text);
+            Console.WriteLine("The 1st result of the page is: " + text);
 
             // Close the browser
             System.Threading.Thread.Sleep(500000);
